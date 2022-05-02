@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "Dev Project"
+name = "PassGen"
 version = "0.1.0"
 description = ""
 authors = ["Simon Tallmyr"]
