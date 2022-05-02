@@ -1,6 +1,6 @@
 from typer.testing import CliRunner
 
-from app.app import app
+from passgen.main import app
 
 runner = CliRunner()
 
