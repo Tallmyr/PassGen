@@ -4,6 +4,10 @@ version = "0.1.0"
 description = ""
 authors = ["Simon Tallmyr"]
 license = "MIT"
+readme = "README.md"
+
+[tool.poetry.scripts]
+passgen = "passgen.main:app"
 
 [tool.poetry.dependencies]
 python = "^3.10"
